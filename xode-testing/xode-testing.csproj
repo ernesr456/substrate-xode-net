@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>xode_testing</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Substrate.Integration\Substrate.Xode.Integration.csproj" />
+    <ProjectReference Include="..\Substrate.Xode.NET.NetApiExt\Substrate.Xode.NET.NetApiExt.csproj" />
+    <ProjectReference Include="..\Substrate.Xode.NET.RestClient.Mockup\Substrate.Xode.NET.RestClient.Mockup.csproj" />
+    <ProjectReference Include="..\Substrate.Xode.NET.RestClient.Test\Substrate.Xode.NET.RestClient.Test.csproj" />
+    <ProjectReference Include="..\Substrate.Xode.NET.RestClient\Substrate.Xode.NET.RestClient.csproj" />
+    <ProjectReference Include="..\Substrate.Xode.NET.RestService\Substrate.Xode.NET.RestService.csproj" />
+  </ItemGroup>
+
+</Project>
