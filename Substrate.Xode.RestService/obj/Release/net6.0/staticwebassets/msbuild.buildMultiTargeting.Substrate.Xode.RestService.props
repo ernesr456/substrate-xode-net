@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Substrate.Xode.RestService.props" />
+</Project>

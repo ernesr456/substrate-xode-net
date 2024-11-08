@@ -1,0 +1,12 @@
+C:\Users\Ernest\Documents\GitHub\4Nexgen\Substrate.Chains.NET\Substrate.Xode.NET\Substrate.Xode.NetApiExt\bin\Debug\netstandard2.0\Substrate.Xode.NetApiExt.xml
+C:\Users\Ernest\Documents\GitHub\4Nexgen\Substrate.Chains.NET\Substrate.Xode.NET\Substrate.Xode.NetApiExt\bin\Debug\netstandard2.0\Substrate.Xode.NetApiExt.deps.json
+C:\Users\Ernest\Documents\GitHub\4Nexgen\Substrate.Chains.NET\Substrate.Xode.NET\Substrate.Xode.NetApiExt\bin\Debug\netstandard2.0\Substrate.Xode.NetApiExt.dll
+C:\Users\Ernest\Documents\GitHub\4Nexgen\Substrate.Chains.NET\Substrate.Xode.NET\Substrate.Xode.NetApiExt\bin\Debug\netstandard2.0\Substrate.Xode.NetApiExt.pdb
+C:\Users\Ernest\Documents\GitHub\4Nexgen\Substrate.Chains.NET\Substrate.Xode.NET\Substrate.Xode.NetApiExt\obj\Debug\netstandard2.0\Substrate.Xode.NetApiExt.csproj.AssemblyReference.cache
+C:\Users\Ernest\Documents\GitHub\4Nexgen\Substrate.Chains.NET\Substrate.Xode.NET\Substrate.Xode.NetApiExt\obj\Debug\netstandard2.0\Substrate.Xode.NetApiExt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ernest\Documents\GitHub\4Nexgen\Substrate.Chains.NET\Substrate.Xode.NET\Substrate.Xode.NetApiExt\obj\Debug\netstandard2.0\Substrate.Xode.NetApiExt.AssemblyInfoInputs.cache
+C:\Users\Ernest\Documents\GitHub\4Nexgen\Substrate.Chains.NET\Substrate.Xode.NET\Substrate.Xode.NetApiExt\obj\Debug\netstandard2.0\Substrate.Xode.NetApiExt.AssemblyInfo.cs
+C:\Users\Ernest\Documents\GitHub\4Nexgen\Substrate.Chains.NET\Substrate.Xode.NET\Substrate.Xode.NetApiExt\obj\Debug\netstandard2.0\Substrate.Xode.NetApiExt.csproj.CoreCompileInputs.cache
+C:\Users\Ernest\Documents\GitHub\4Nexgen\Substrate.Chains.NET\Substrate.Xode.NET\Substrate.Xode.NetApiExt\obj\Debug\netstandard2.0\Substrate.Xode.NetApiExt.sourcelink.json
+C:\Users\Ernest\Documents\GitHub\4Nexgen\Substrate.Chains.NET\Substrate.Xode.NET\Substrate.Xode.NetApiExt\obj\Debug\netstandard2.0\Substrate.Xode.NetApiExt.dll
+C:\Users\Ernest\Documents\GitHub\4Nexgen\Substrate.Chains.NET\Substrate.Xode.NET\Substrate.Xode.NetApiExt\obj\Debug\netstandard2.0\Substrate.Xode.NetApiExt.pdb
